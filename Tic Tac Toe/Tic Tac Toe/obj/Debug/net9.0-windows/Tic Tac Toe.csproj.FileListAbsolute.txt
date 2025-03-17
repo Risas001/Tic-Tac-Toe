@@ -1,0 +1,16 @@
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic_Tac_Toe.Form1.resources
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.csproj.GenerateResource.cache
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.AssemblyInfo.cs
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+E:\Tic Tac Toe\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.exe
+E:\Tic Tac Toe\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.deps.json
+E:\Tic Tac Toe\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.runtimeconfig.json
+E:\Tic Tac Toe\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.dll
+E:\Tic Tac Toe\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.pdb
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.dll
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\refint\Tic Tac Toe.dll
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.pdb
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.genruntimeconfig.cache
+E:\Tic Tac Toe\Tic Tac Toe\obj\Debug\net9.0-windows\ref\Tic Tac Toe.dll
